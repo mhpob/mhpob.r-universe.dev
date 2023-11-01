@@ -14,5 +14,9 @@
     {
         "package": "glatos",
         "url": "https://github.com/ocean-tracking-network/glatos"
+    },
+    {
+        "package": "ocean-tracking-network/YAPS"
+        "url": "https://github.com/ocean-tracking-network/yaps"
     }
 ]
