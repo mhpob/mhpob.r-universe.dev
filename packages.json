@@ -6,5 +6,13 @@
     {
         "package": "otndo",
         "url": "https://github.com/mhpob/otndo"
+    },
+    {
+        "package": "miscYAPS",
+        "url": "https://github.com/robertlennox/miscYAPS"
+    },
+    {
+        "package": "glatos",
+        "url": "https://github.com/ocean-tracking-network/glatos"
     }
 ]
