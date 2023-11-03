@@ -13,15 +13,11 @@
     },
     {
         "package": "glatos",
-        "url": "https://github.com/ocean-tracking-network/glatos"
-    },
-    {
-        "package": "glatos_dev",
         "url": "https://github.com/ocean-tracking-network/glatos",
         "branch": "dev"
     },
     {
-        "package": "ocean-tracking-network/YAPS",
+        "package": "yaps",
         "url": "https://github.com/ocean-tracking-network/yaps"
     }
 ]
