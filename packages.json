@@ -9,12 +9,13 @@
     },
     {
         "package": "miscYAPS",
-        "url": "https://github.com/robertlennox/miscYAPS"
+        "url": "https://github.com/mhpob/miscyaps",
+        "branch": "patch-1"
     },
     {
         "package": "glatos",
-        "url": "https://github.com/ocean-tracking-network/glatos",
-        "branch": "dev"
+        "url": "https://github.com/mhpob/glatos",
+        "branch": "dev-patch-dependency"
     },
     {
         "package": "yaps",
