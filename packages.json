@@ -20,5 +20,9 @@
     {
         "package": "yaps",
         "url": "https://github.com/baktoft/yaps"
+    },
+    {
+        "package": "simfish",
+        "url": "https://github.com/ianjonsen/simfish"
     }
 ]
