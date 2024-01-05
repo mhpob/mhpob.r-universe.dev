@@ -8,6 +8,10 @@
         "url": "https://github.com/mhpob/otndo"
     },
     {
+        "package": "rvdat",
+        "url": "https://github.com/mhpob/rvdat"
+    },
+    {
         "package": "miscYAPS",
         "url": "https://github.com/mhpob/miscyaps",
         "branch": "patch-1"
