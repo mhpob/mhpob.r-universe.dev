@@ -31,5 +31,9 @@
     {
         "package": "simfish",
         "url": "https://github.com/mhpob/simfish"
+    },
+    {
+        "package": "TelemetrySpace",
+        "url": "https://github.com/mhpob/TelemetrySpace"
     }
 ]
