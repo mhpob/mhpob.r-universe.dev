@@ -4,6 +4,10 @@
         "url": "https://github.com/mhpob/matos"
     },
     {
+        "package": "otndata",
+        "url": "https://github.com/trackyverse/otndata"
+    }
+    {
         "package": "otndo",
         "url": "https://github.com/mhpob/otndo"
     },
@@ -34,6 +38,6 @@
     },
     {
         "package": "TelemetrySpace",
-        "url": "https://github.com/meganwinton/TelemetrySpace"
+        "url": "https://github.com/trackyverse/TelemetrySpace"
     }
 ]
